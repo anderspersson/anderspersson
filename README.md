@@ -1,3 +1,5 @@
-About me.
-- Senior Developer since 22 years, with a background as IT-Technican.
-- Development language is just tools for me, but in the top of the toolbox is now C#.net Core, Java, Python, Clojure, Haskell and Julia.
+<h1>Hi there i'am Anders</h1>
+
+A Senior Developer with over 23 year of professional development.
+- Love development in a varaity of language, with focus on C#.
+- Learn and develop new skills in language and tech, is what makes my day.
