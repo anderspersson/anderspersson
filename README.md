@@ -1,5 +1,6 @@
 Hi there 👋
 🔭 I’m Anders Persson
+
 🏢 I write my first line of code, om a ABC80 year 1985
 I have a background as Technican and the last 26 years as developer on fulltime.
 🌱 I blog about coding & life: on LinedIn 
