@@ -1,5 +1,14 @@
-<h1>Hi there i'am Anders</h1>
+Hi there 👋
+🔭 I’m Anders Persson
 
-A Senior Developer with over 40 year of development.
-- Love development in a varaity of language, with focus on C#.
-- Learn and develop new skills in language and tech, is what makes my day.
+🏢 I write my first line of code, om a ABC80 year 1985
+
+🏢 Love mardown, have all my document in it.
+
+🐘 I'm on Mastodon https://mastodon.nu/@wolfman
+
+📫 How to reach me: anders.u.persson@gmail.com
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: Still just pen and papper when learning and planning new things.
