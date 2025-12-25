@@ -4,7 +4,7 @@
 
 
 
-💾 \*\*Wrote my first line of code on an ABC80 back in 1985\*\*  
+💾 \*\*Wrote my first line of code on an ABC80 back in 1983\*\*  
 
 🧭 \*\*Today I work as a Technical Lead after 30 years as a developer\*\*  
 
